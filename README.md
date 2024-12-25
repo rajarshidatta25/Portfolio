@@ -1,4 +1,4 @@
-# Extreme Climate Events Researcher
+# Hydroclimatologist
 I am a research scholar at IIT Bombay, specializing in multivariate drought frequency analysis and forecasting. My work focuses on utilizing both statistical methods and deep learning techniques.
 
 #### Technical Skills: Python, SQL, R, MATLAB, Arc-GIS
