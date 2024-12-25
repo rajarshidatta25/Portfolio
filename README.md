@@ -1,5 +1,5 @@
 # Data Scientist
-I am a research scholar at IIT Bombay. I am specialized in multivariate frequency analysis of drought and forecasting. I work with statistical and deep learning based techniques.
+I am a research scholar at IIT Bombay, specializing in multivariate drought frequency analysis and forecasting. My work focuses on utilizing both statistical methods and deep learning techniques.
 
 #### Technical Skills: Python, SQL, R, MATLAB, Arc-GIS
 
