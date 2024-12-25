@@ -12,6 +12,7 @@ I am a research scholar at IIT Bombay, specializing in multivariate drought freq
 1. Datta, R., Reddy, M.J. Trivariate frequency analysis of droughts using copulas under future climate change over Vidarbha region in India. Stoch Environ Res Risk Assess 37, 3855–3877 (2023). [https://doi.org/10.1007/s00477-023-02484-3]
 2. Datta, R., Reddy, M.J. (2022). Bivariate Drought Risk Estimation Using a Multivariate Standardized Drought Index in Marathwada Region, India. In: Tarekul Islam, G.M., Shampa, S., Chowdhury, A.I.A. (eds) Water Management: A View from Multidisciplinary Perspectives. Springer, Cham. [https://doi.org/10.1007/978-3-030-95722-3_9]
 3. Datta, R., Pathak, A.A., Dodamani, B.M. (2021). Assessment of Meteorological Drought Return Periods Over a Temporal Rainfall Change. In: Narasimhan, M.C., George, V., Udayakumar, G., Kumar, A. (eds) Trends in Civil Engineering and Challenges for Sustainability. Lecture Notes in Civil Engineering, vol 99. Springer, Singapore. [https://doi.org/10.1007/978-981-15-6828-2_42]
+4. Datta, R., Reddy, M.J. and Nandi, S., "Modeling the Influence of Climate Change on Hydrological Droughts: A Vine Copula-Based Approach" - (Under Preparation)
 
 ## Conferences
 1. Datta, R., Reddy, M.J. and Nandi, S., 2022, December. "Development of Regional Severity-Duration-Frequency and Severity-Areal extent-Frequency Curves for an Indian Basin Under Warming Climate." In AGU Fall Meeting Abstracts (Vol. 2022, pp. H41A-02).
