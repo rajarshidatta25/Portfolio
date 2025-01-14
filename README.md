@@ -26,9 +26,10 @@ CE 401: Water Resources Engineering, IIT Bombay
 Spring 2020, 2021
 CE 676: Optimization in Water Resources Engineering, IIT Bombay
 
-## Workshops attended
+## Workshops and Symposium
 1. Quantitative Precipitation Estimation: A Focus on Weather Radar Hydrology (04-06-2024 & 05-06-2024)
 2. Summer School on GEOframe at IIT Bombay, Mumbai, India [July 25 to 31, 2024]
+3. Emerging Technologies for Sustainable Water Management (03-01-2025 to 05-01-2025)
 
 ## Interests
 I have a passion for outdoor activities like trekking, swimming, and weightlifting, which help me stay active and connected to nature.
