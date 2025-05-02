@@ -26,6 +26,9 @@ CE 401: Water Resources Engineering, IIT Bombay
 Spring 2020, 2021
 CE 676: Optimization in Water Resources Engineering, IIT Bombay
 
+## M.Tech Project
+An assessment of the impact of climate variability on the frequency of meteorological droughts in the Ghataprabha River Basin.
+
 ## Workshops and Symposium
 1. Quantitative Precipitation Estimation: A Focus on Weather Radar Hydrology (04-06-2024 & 05-06-2024)
 2. Summer School on GEOframe at IIT Bombay, Mumbai, India [July 25 to 31, 2024]
